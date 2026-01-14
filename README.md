@@ -46,6 +46,10 @@ Este projeto tem como objetivo realizar **análise estatística e visualização
 ---
 
 ## 📊 Análises Realizadas
+<img width="629" height="414" alt="image" src="https://github.com/user-attachments/assets/dbf540b4-c783-472c-b673-ef3cbdc47ce2" />
+<img width="1873" height="1007" alt="image" src="https://github.com/user-attachments/assets/f94cea96-107f-4f71-9e93-cbcde693c215" />
+<img width="1918" height="816" alt="image" src="https://github.com/user-attachments/assets/a32d7521-ac2d-4911-827e-3d68b67d52bc" />
+<img width="1899" height="1003" alt="image" src="https://github.com/user-attachments/assets/1e9253e9-6c85-487b-8d8b-332413b0898e" />
 
 * Distribuição das notas dos filmes (histograma)
 * Quantidade de filmes por gênero
